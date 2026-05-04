@@ -131,7 +131,7 @@ Focusing on **Security**, **Utility Apps**, and **Cross-Platform Solutions**.
 
 ## 📞 聯繫方式
 
-- 📧 **郵件**: [your-email@example.com]
+- 📧 **郵件**: [inbox here]
 - 🐙 **GitHub**: [@ySyndevL](https://github.com/ySyndevL)
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/ySyndevL/vault-app-dist/discussions)
 - 🐛 **報告問題**: 在各項目的 Issues 中
