@@ -8,8 +8,8 @@ Focusing on **Security**, **Utility Apps**, and **Cross-Platform Solutions**.
 ### 🚀 Our Projects
 | Project | Status | Description | Download |
 | :--- | :--- | :--- | :--- |
-| **Vault App** | `Beta` | Secure data management with encrypted SQLite. | [Get APK](連結) |
-| **Project B** | `Planning` | Researching retail and lifestyle solutions. | - |
+| **Vault App** | `Beta` | Secure data management with encrypted SQLite. | [Get APK](https://github.com/ySyndevL/vault-app-dist/releases/tag/v1.0.0) |
+| **Project B** | `Planning` | Working on it.... | - |
 
 ### 🛠 Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) 
