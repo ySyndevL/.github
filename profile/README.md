@@ -8,7 +8,7 @@ Focusing on **Security**, **Utility Apps**, and **Cross-Platform Solutions**.
 ### 🚀 Our Projects
 | Project | Status | Description | Download |
 | :--- | :--- | :--- | :--- |
-| **Vault App** | `Beta` | Secure data management with encrypted SQLite. | [Get APK](https://github.com/ySyndevL/vault-app-dist/releases/tag/v1.0.0) |
+| **Vault App** | `v1.0.0` | Offline Secure data management with encrypted SQLite. | [Get APK](https://github.com/ySyndevL/vault-app-dist/releases/tag/v1.0.0) |
 | **Project B** | `Planning` | Working on it.... | - |
 
 ### 🛠 Tech Stack
