@@ -1,13 +1,18 @@
-## Hi there 👋
+# ySyndevL Labs 🧪
 
-<!--
+Aiming to create stuff fun, steps to resolve or make things easier. 
+Focusing on **Security**, **Utility Apps**, and **Cross-Platform Solutions**.
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-Aiming to create stuff fun, steps to resolve or make things easier.
+### 🚀 Our Projects
+| Project | Status | Description | Download |
+| :--- | :--- | :--- | :--- |
+| **Vault App** | `Beta` | Secure data management with encrypted SQLite. | [Get APK](連結) |
+| **Project B** | `Planning` | Researching retail and lifestyle solutions. | - |
+
+### 🛠 Tech Stack
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) 
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
