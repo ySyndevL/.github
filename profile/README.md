@@ -3,6 +3,8 @@
 Aiming to create stuff fun, steps to resolve or make things easier. 
 Focusing on **Security**, **Utility Apps**, and **Cross-Platform Solutions**.
 
+Feel free to buy me a coffee
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y01WI194)
 ---
 
 ### 🚀 Our Projects
