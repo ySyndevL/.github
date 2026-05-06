@@ -169,6 +169,8 @@ Feel free to buy me a coffee: <br>
 
 ---
 
+
+```
 <div align="center">
 
 **⭐ 如果你喜歡我們的項目，請給個 Star！**
@@ -176,4 +178,3 @@ Feel free to buy me a coffee: <br>
 🔐 Security First, Privacy Always.
 
 </div>
-```
